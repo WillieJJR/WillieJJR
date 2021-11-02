@@ -1,4 +1,4 @@
-My name is Willie Cheeks (@WillieJJR) and I'm currently a Data Scientist with about 3 Years of expereince in Government Technology Consulting. I currently hold a Master's in Analytics.
+My name is Willie Cheeks (@WillieJJR) and I'm currently a Data Scientist with about 3 Years of experience in Government Technology Consulting. I currently hold a Master's in Analytics.
 
 My primary interests/experiences are in:
 - Uncovering insights by leveraging a combination of Analytics, Machine Learning and Statistics
